@@ -1,5 +1,7 @@
 # Charles
 
+<a href="https://youtu.be/jPvw-25NR-Y" target="_blank" rel="noreferrer"> <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="Charles" width="50" height="50"/> </a> Charles_HomeWork
+
 Ex_0: Сфокусироваться на ниже перечисленных запросах
 
 Protocol: http
